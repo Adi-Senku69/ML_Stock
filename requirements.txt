@@ -11,3 +11,4 @@ streamlit==1.22.0
 yfinance==0.2.23
 mpld3
 jugaad_data
+lxml_html_clean
